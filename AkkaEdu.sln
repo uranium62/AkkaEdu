@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SImpleAkka", "SImpleAkka\SImpleAkka.csproj", "{4C8E2978-C215-486D-8161-7B7FD4ACB9C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeCycleAkka", "LifeCycleAkka\LifeCycleAkka.csproj", "{401D731D-D9DB-44F8-BCDF-932B721E52AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviorAkka", "BehaviorAkka\BehaviorAkka.csproj", "{D8ACCFDF-D8A7-4846-B512-BFA439220F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HierarchyAkka", "HierarchyAkka\HierarchyAkka.csproj", "{19A51AEF-64E8-4353-A167-7D58328778C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStreaming.Remote", "MovieStreaming.Remote\MovieStreaming.Remote.csproj", "{E7D72864-7532-4943-A2C2-72DD513FD073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStreaming.Common", "MovieStreaming.Common\MovieStreaming.Common.csproj", "{65B81657-8143-4A91-91DD-3E786379539E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStreaming.App", "MovieStreaming.App\MovieStreaming.App.csproj", "{7789F3B6-FBF6-4AEF-8D81-476C09EB0D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteAkka", "RouteAkka\RouteAkka.csproj", "{039FE5E6-947D-4737-B057-F7AA2175A64C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupRouteAkka", "GroupRouteAkka\GroupRouteAkka.csproj", "{B3D47CBF-B68C-475D-8EF2-A04067BB72AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C8E2978-C215-486D-8161-7B7FD4ACB9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8E2978-C215-486D-8161-7B7FD4ACB9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8E2978-C215-486D-8161-7B7FD4ACB9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8E2978-C215-486D-8161-7B7FD4ACB9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{401D731D-D9DB-44F8-BCDF-932B721E52AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401D731D-D9DB-44F8-BCDF-932B721E52AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401D731D-D9DB-44F8-BCDF-932B721E52AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401D731D-D9DB-44F8-BCDF-932B721E52AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8ACCFDF-D8A7-4846-B512-BFA439220F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8ACCFDF-D8A7-4846-B512-BFA439220F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8ACCFDF-D8A7-4846-B512-BFA439220F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8ACCFDF-D8A7-4846-B512-BFA439220F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A51AEF-64E8-4353-A167-7D58328778C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A51AEF-64E8-4353-A167-7D58328778C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A51AEF-64E8-4353-A167-7D58328778C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A51AEF-64E8-4353-A167-7D58328778C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D72864-7532-4943-A2C2-72DD513FD073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D72864-7532-4943-A2C2-72DD513FD073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D72864-7532-4943-A2C2-72DD513FD073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D72864-7532-4943-A2C2-72DD513FD073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B81657-8143-4A91-91DD-3E786379539E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B81657-8143-4A91-91DD-3E786379539E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B81657-8143-4A91-91DD-3E786379539E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B81657-8143-4A91-91DD-3E786379539E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7789F3B6-FBF6-4AEF-8D81-476C09EB0D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7789F3B6-FBF6-4AEF-8D81-476C09EB0D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7789F3B6-FBF6-4AEF-8D81-476C09EB0D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7789F3B6-FBF6-4AEF-8D81-476C09EB0D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039FE5E6-947D-4737-B057-F7AA2175A64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039FE5E6-947D-4737-B057-F7AA2175A64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039FE5E6-947D-4737-B057-F7AA2175A64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039FE5E6-947D-4737-B057-F7AA2175A64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D47CBF-B68C-475D-8EF2-A04067BB72AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D47CBF-B68C-475D-8EF2-A04067BB72AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D47CBF-B68C-475D-8EF2-A04067BB72AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D47CBF-B68C-475D-8EF2-A04067BB72AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
